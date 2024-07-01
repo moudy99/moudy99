@@ -24,9 +24,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moudy99&show_icons=true&locale=en&layout=compact" alt="moudy99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moudy99&show_icons=true&locale=en" alt="moudy99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moudy99&" alt="moudy99" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=moudy99&limit=5&theme=flat&combine_all_yearly_contributions=true)
