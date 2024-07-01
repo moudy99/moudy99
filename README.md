@@ -27,5 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moudy99&" alt="moudy99" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moudy99&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
